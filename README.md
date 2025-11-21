@@ -118,26 +118,6 @@ Everything else is already prepared inside the `output/` folder.
 
 ---
 
-## 🎥 Short Video Script (Easy to Read)
-
-**Hi, I’m Dhruv. This is my submission for the NIYAMR AI internship assignment.**
-
-I created a small pipeline that reads the Universal Credit Act 2025 PDF, extracts its text, cleans it, summarises it, and converts the important parts into JSON.
-
-First, I placed the PDF in the `data` folder.
-Then I ran my script `extract_text.py` which generated the raw and clean text files in the `output` folder.
-
-Next, I created a 5–10 point summary of the Act.
-After that, I generated a structured JSON file that contains definitions, eligibility rules, obligations, payments, penalties and record-keeping.
-
-Finally, I completed the 6 required rule checks and stored them in another JSON file.
-
-This project shows how an AI agent can read a legal document and produce structured, useful output.
-
-Thank you.
-
----
-
 ## 👤 Author
 
 **Dhruv Kumar** – Aspiring Data Scientist
